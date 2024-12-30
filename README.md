@@ -2,6 +2,18 @@
 
 ¡Hola! Soy Doris Marquez, una apasionada analista de datos con un enfoque en transformar datos complejos en conocimiento valioso. Originaria de Venezuela y actualmente viviendo en Chile, me dedico a descubrir historias escondidas en los datos y ayudar a las empresas a tomar decisiones informadas.
 
+## 🎯 &nbsp;Habilidades y Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+</p>
+
 ## Formación
 
 He completado diversas formaciones que fortalecen mi perfil como analista de datos:
