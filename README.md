@@ -46,6 +46,6 @@ Mi capacidad para abordar problemas complejos y mi pasión por los datos me conv
 Estoy abierta a nuevas oportunidades y colaboraciones. Puedes contactarme a través de:
 
 - **Correo electrónico:** doris.oriane1@gmail.com
-- **LinkedIn:** [Doris Marquez](https://www.linkedin.com/in/doris-márquez-877b0b309)
+- **LinkedIn:** [Doris Marquez](https://www.linkedin.com/in/doris-márquez)
 
 ¡Vamos a transformar datos en conocimiento juntos!
