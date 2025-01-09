@@ -32,11 +32,12 @@ He completado diversas formaciones que fortalecen mi perfil como analista de dat
 ## Experiencia y Proyectos
 
 Mi experiencia previa se centra en el análisis de datos, donde he trabajado en proyectos que incluyen:
-- **Desarrollo de Página Web Stática:** Uso de HTM y CSS [Ver Proyecto](https://dorismarquez.github.io/DorisMarquez_ViajesChile/)
-- **Diseño y Desarrollo de Bases de Datos:** SQL, MySQL [Ver Proyecto](https://github.com/DorisMarquez/coderhouse_sql_entrega_final/blob/main/README.md)
+
 - **Análisis Exploratorio de Datos:** Identificación de patrones y tendencias en grandes conjuntos de datos utilizando Python y SQL.
 - **Visualización de Datos:** Creación de dashboards interactivos en Power BI y Tableau para ayudar a las empresas a comprender sus datos de manera visual y efectiva.
 - **Modelado Predictivo:** Implementación de modelos de machine learning para predecir tendencias y comportamientos futuros.
+- **Desarrollo de Página Web Estática:** Uso de HTML y CSS [Ver Proyecto](https://dorismarquez.github.io/DorisMarquez_ViajesChile/)
+- **Diseño y Desarrollo de Bases de Datos:** SQL, MySQL [Ver Proyecto](https://github.com/DorisMarquez/coderhouse_sql_entrega_final/blob/main/README.md)
 
 Mi capacidad para abordar problemas complejos y mi pasión por los datos me convierten en una excelente colaboradora para cualquier equipo que busque sacar el máximo provecho de su información.
 
