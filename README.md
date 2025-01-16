@@ -1,6 +1,6 @@
 # Doris Márquez - Analista de Datos
 
-¡Hola! Soy Doris Marquez, una apasionada analista de datos con un enfoque en transformar datos complejos en conocimiento valioso. Originaria de Venezuela y actualmente viviendo en Chile, me dedico a descubrir historias escondidas en los datos y ayudar a las empresas a tomar decisiones informadas.
+¡Hola! Soy Doris Márquez, una apasionada analista de datos con un enfoque en transformar datos complejos en conocimiento valioso. Originaria de Venezuela y actualmente viviendo en Chile, me dedico a descubrir historias escondidas en los datos y ayudar a las empresas a tomar decisiones informadas.
 
 ## 🎯 &nbsp;Habilidades y Tecnologías
 
