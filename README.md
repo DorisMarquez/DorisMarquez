@@ -28,8 +28,8 @@ He completado diversas formaciones que fortalecen mi perfil como analista de dat
 - **Introduction to Data Science in Python, DataCamp (online, 2020)**
 - **Fundamentos de Ingeniería de Software, Platzi (online, 2020)**
 - **Diplomado en Desarrollo de aplicaciones de Software, DUOC UC, Chile (2018)**
-- **Post Graduate Diploma in Piping Engineering, Suvidya Institute of Technology (SIT), India (2011)**
-- **Título profesional en Ingeniería Mecánica, Universidad Nacional Experimental del Táchira (UNET), Venezuela (2005)**
+- **Post Graduate Diploma in Piping Engineering**
+- **Título profesional en Ingeniería Mecánica**
 
 ## Experiencia y Proyectos
 
