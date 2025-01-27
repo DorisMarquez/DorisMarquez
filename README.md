@@ -22,8 +22,8 @@ He completado diversas formaciones que fortalecen mi perfil como analista de dat
 
 - **Bootcamp Data Analyst, CodeBasics (online, cursando)**
 - **Bootcamp Full Stack Python, Desafío Latam (online, 2024)**
-- **Especialista en Microsoft Excel, SmartPro (online, 2024)**
 - **SQL, CoderHouse (online, 2024)**
+- **Especialista en Microsoft Excel, SmartPro (online, 2024)**
 - **SQL Fundamentals, Dataquest (online, 2023)**
 - **Introduction to Data Science in Python, DataCamp (online, 2020)**
 - **Fundamentos de Ingeniería de Software, Platzi (online, 2020)**
